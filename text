@@ -1,0 +1,7 @@
+start-dfs.sh
+start-yarn.sh
+jps
+Before executing hive or pig first execute the above 4 commands
+To open Pig:pig -x local
+To open Hive:hive
+ 1st aah vmware open cheste oka console ostadi akada password vss ani kotali then terminal opens. then follow those commands for pig or hive
